@@ -1,0 +1,30 @@
+-I
+
+const Ax = 0 
+const Bx = 1
+const Cx = 2
+Ax Bx Cx Dx Ex 
+0   0  0 0   0      
+
+
+Naming:
+Sruct assembler {
+    
+
+Ax 5    ---> put in reg A
+POP AX  ---> pop from reg to stack
+
+MVP : 
+    (YES)     - SPU for this ver                                                  
+    (YES)     - metkas
+    (YES)     - array of struct 
+    (YES)     - test metkas
+    (YES)     - funck (call , ret)
+    (YES)     - stack return funck, adress next call proc.return_stack();
+    (NO)      - out sercle; 
+    (NO)      - fuctorial
+    (NO)      - cvadratca
+     
+
+     1  2  3  4  5
+     3 -1 -1 -1         JA 1:  6 -1
